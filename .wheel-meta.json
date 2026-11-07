@@ -1,0 +1,22 @@
+{
+  "wheel_id": 826,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-151",
+  "project": "pool-retaining-wall-builders-brisbane-659b7bdf5ba5e6ad38308eff8",
+  "parent_t1_ref": "poolretainingwallsbrisbane-003",
+  "node_role": "buffer",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining wall builders brisbane",
+  "intended_url": "https://aumedia.neocities.org/pool-retaining-wall-builders-brisbane-659b7bdf5ba5e6ad38308eff8/",
+  "tier": "T2",
+  "writeback_nonce": "bf9fa3324b7e1471",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/pool-retaining-wall-builders-brisbane/",
+      "anchor": "Pool Retaining Wall Builders Brisbane: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
